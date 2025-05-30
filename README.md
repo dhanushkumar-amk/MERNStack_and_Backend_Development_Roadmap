@@ -252,32 +252,6 @@ A comprehensive learning path for mastering frontend fundamentals, core backend 
 - Postman: API Testing, Environment Variables, Scripts  
 - NPM/Yarn: Scripts, Workspaces, Versioning  
 
-### Top 20 NPM Packages
-
-- express  
-- mongoose  
-- dotenv  
-- zod / joi  
-- winston  
-- morgan  
-- bcrypt  
-- jsonwebtoken  
-- cors  
-- helmet  
-- multer  
-- nodemailer  
-- axios  
-- lodash  
-- redis  
-- node-cache  
-- cookie-parser  
-- passport  
-- socket.io  
-- supertest  
-
-
-
-
 ---
 
 ## 12. AWS for Backend (Top 20 Services)
@@ -324,6 +298,30 @@ A comprehensive learning path for mastering frontend fundamentals, core backend 
 - Sidecar, Strangler  
 
 ---
+
+### Top 20 NPM Packages
+
+- express  
+- mongoose  
+- dotenv  
+- zod / joi  
+- winston  
+- morgan  
+- bcrypt  
+- jsonwebtoken  
+- cors  
+- helmet  
+- multer  
+- nodemailer  
+- axios  
+- lodash  
+- redis  
+- node-cache  
+- cookie-parser  
+- passport  
+- socket.io  
+- supertest  
+
 
 > _Prepared by Jack — Software Developer_  
 > _Feel free to contribute or raise issues for updates._
